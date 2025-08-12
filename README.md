@@ -1,6 +1,3 @@
-# Motor-Vehicle-Thefts-Data-Analysis-using-SQL
-Data exploration project analyzing stolen vehicle trends by time, type, and location. Covers yearly, monthly, and daily theft patterns, vehicle type &amp; characteristics, and regional theft analysis with population and density insights.
-
 *I recorded my full project walkthrough and uploaded it on YouTube which is great if you want to follow along with my thought process and hopefully make some suggestions.* Watch it [here](https://youtu.be/oedT6Fkibpk).
 
 # Project Description:
